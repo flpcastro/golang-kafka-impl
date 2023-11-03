@@ -2,11 +2,11 @@
 
 ## Technologies
 
-![Go](https://go.dev/)
-![Kafka](https://kafka.apache.org/)
-![Chi](https://go-chi.io/#/)
-![MySQL](https://www.mysql.com/)
-![Docker](https://www.docker.com/)
+- [Go](https://go.dev/)
+- [Kafka](https://kafka.apache.org/)
+- [Chi](https://go-chi.io/#/)
+- [MySQL](https://www.mysql.com/)
+- [Docker](https://www.docker.com/)
 
 ## How to run the project
 
